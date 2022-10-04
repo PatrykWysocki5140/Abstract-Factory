@@ -7,7 +7,7 @@ namespace Abstract_Factory.Models.Types.Gender
     {
         public string Type()
         {
-            return "Male";
+            return "Female";
         }
     }
 }
